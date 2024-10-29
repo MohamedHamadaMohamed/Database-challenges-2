@@ -117,3 +117,4 @@ from Sales.employees
 where salary >45000 and (first_name +' '+ last_name)  like '%e%' or
 (first_name +' '+ last_name)  like '%i%';
 
+
